@@ -77,4 +77,4 @@ now ride_data file is downloaded we can now easily work on excel and after makin
 
 after creating visualizations in tableau i created a report of the findings and possible paths we can take for meeting our business goals, check that out:
 
-https://github.com/Agraj/Cyclistic_bikeshare_analysis/blob/main/CyclisticsReport.pptx
+https://github.com/Mansee99/Cyclist_bike_share/blob/main/CyclisticsReport.pptx
